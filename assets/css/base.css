@@ -5,8 +5,10 @@
     --text-color:#333;
     --border-color:#dbdbdb;
     --star-gold-color:#ffce3e;
+    
     --navbar-height:30px;
     --header-height : 120px;
+    --header-sort-bar-height:46px;
     --header-with-search-height: calc(var(--header-height) - var(--navbar-height));
 }
 
@@ -190,9 +192,7 @@ html{
     display: none;
 }
 
-.select-input__item{
 
-}
 
 .select-input__link{
     font-size: 1.4rem;
